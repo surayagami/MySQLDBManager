@@ -1,0 +1,8 @@
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.csprojResolveAssemblyReference.cache
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.Properties.Resources.resources
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.csproj.GenerateResource.Cache
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\bin\Debug\MySQLDBManager.exe
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\bin\Debug\MySQLDBManager.pdb
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.exe
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.pdb
+C:\BRUNSFIELD\DSS\3. Software\2. MySQLDBManager\MySQLDBManager\obj\Debug\MySQLDBManager.Form1.resources
